@@ -42,4 +42,3 @@ The core of this Data Warehouse utilizes a **Snowflake Schema**:
 
 I am passionate about Data Engineering, BI Development, and turning complex data into strategic business value. Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions!
 
-I am passionate about Data Engineering, BI Development, and turning complex data into strategic business value. Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions!
